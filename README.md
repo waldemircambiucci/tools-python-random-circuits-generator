@@ -3,6 +3,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waldemircambiucci)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waldemircambiucci/)
 
-# Python - Random Circuits Generation
+Author: Waldemir Cambiucci
+Update: Dec 29th, 2022
 
-Code base for Random Circuits Generation
+# PYTHON RANDOM CIRCUITS GENERATION
+
+A collection of useful scripts in Python + Qiskit to create random quantum circuits for analysis and exploration.
